@@ -14,3 +14,4 @@ six==1.11.0
 terminado==0.8.1
 tornado==5.1.1
 traitlets==4.3.2
+numpy==1.15.2
