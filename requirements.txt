@@ -7,7 +7,6 @@ jupyter-core==4.4.0
 MarkupSafe==1.0
 nbformat==4.4.0
 nltk==3.3
-pkg-resources==0.0.0
 ptyprocess==0.6.0
 Send2Trash==1.5.0
 six==1.11.0
