@@ -13,4 +13,4 @@ pip3 install -r requirements.txt
 ./data/get_20newsgroups.sh
 ```
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pgencheva/information_retrieval_fmi/tree/lucene_exercise/lucene_exercise)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pgencheva/information_retrieval_fmi/lucene_exercise)
