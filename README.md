@@ -8,7 +8,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
 ```
-2. Download the data used in the exercise, for example
+2. Download the data used in the exercise, for example: (in Binder you can open a Terminal and execute the script:)
 ```
 ./data/get_20newsgroups.sh
 ```
