@@ -1,4 +1,5 @@
-This repository contains exercises for the course Information Retrieval teached to Master Students in Sofia University.
+This repository contains exercises for the course Information Retrieval teached to Master Students in Sofia University in 2018.
+**Warning** - this repository was used in the 2018/2019 academic year and isn't maintained anymore!
 
 To start with the exercises you will need to
 
